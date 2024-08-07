@@ -1,0 +1,12 @@
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\bin\Debug\net7.0\ShortLinkLuRo.Domain.deps.json
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\bin\Debug\net7.0\ShortLinkLuRo.Domain.dll
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\bin\Debug\net7.0\ShortLinkLuRo.Domain.pdb
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.AssemblyInfoInputs.cache
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.AssemblyInfo.cs
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.csproj.CoreCompileInputs.cache
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.dll
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\refint\ShortLinkLuRo.Domain.dll
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.pdb
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ref\ShortLinkLuRo.Domain.dll
+D:\Programas testes\shortlinkLuRo\ShortLinkLuRo-Backend\ShortLinkLuRo.Domain\obj\Debug\net7.0\ShortLinkLuRo.Domain.csproj.AssemblyReference.cache
